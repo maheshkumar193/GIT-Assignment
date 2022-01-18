@@ -1,0 +1,7 @@
+Some commanly used commands
+
+1.git init : Intializes the git in the current folder
+	git init . : does the same thing
+	git init demo : creates a demo folder inside current folder and git is intialzed in demo
+
+2.git status : checks updates, modifications, untracked, unstaged, not commited files. 
