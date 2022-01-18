@@ -5,3 +5,17 @@ Some commanly used commands
 	git init demo : creates a demo folder inside current folder and git is intialzed in demo
 
 2.git status : checks updates, modifications, untracked, unstaged, not commited files. 
+
+3.git add : all untracked or modified files go to staging area
+
+4.git commit : all files present in staging area move to git repo
+
+5.git push : all files present in local git repo will be pushed to remote github repo
+
+6.git remote -v : checks if current local directory is linked to github or not
+
+7.git branch : gives the current branch 
+
+8.git checkout : moving to other branches
+
+9.git log : shows the previous commits
