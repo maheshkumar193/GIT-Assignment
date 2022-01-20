@@ -19,3 +19,7 @@ Some commanly used commands
 8.git checkout : moving to other branches
 
 9.git log : shows the previous commits
+
+10.git fetch : when some changes are done in github through GUI, to know what changes are done we use fetch
+
+11.git pull : to pull all the changes to git repo from remote repo.
